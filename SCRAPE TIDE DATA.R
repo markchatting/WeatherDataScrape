@@ -1,9 +1,8 @@
 ##############################################
 
-##########	SCRAPE TIDE DATA	##########	
+##########	SCRAPE TIDE DATA	######	
 
 ##############################################
-
 
 #install.packages("rvest")
 #install.packages("sqldf")
