@@ -1,8 +1,5 @@
 ######	SCRAPE TIDE DATA	######	
 
-#install.packages("rvest")
-#install.packages("sqldf")
-
 library(rvest)
 library(sqldf)
 
